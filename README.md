@@ -45,19 +45,24 @@ Where:
 
 ## 🛠 How to Run
 
-1. Clone the repository:
+
+   1.Clone the repository:
    
 git clone https://github.com/yourusername/qlearning-agent-2d.git
 
 cd qlearning-agent-2d
 
-2.Train the agent:
+
+   2.Train the agent:
 
 python3 train.py
 
-3.Visualize the learned path:
+
+   3.Visualize the learned path:
 
 python3 visualize.py
+
+
 
 
 
