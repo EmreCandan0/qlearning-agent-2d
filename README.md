@@ -58,9 +58,13 @@ python3 visualize.py
 🖼 Sample Output (Terminal Visualization)
 
 S 🟩 ⬜ ⬜ ⬜
+
 ⬜ ⬛ ⬜ ⬜ ⬜
+
 ⬜ ⬜ ⬛ ⬜ ⬜
+
 ⬜ ⬜ ⬜ ⬛ ⬜
+
 ⬜ ⬜ ⬜ ⬜ G
 
 S → Start
